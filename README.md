@@ -1,8 +1,8 @@
 # University Housing Management System
 
 ## Travail Réalisée Par : M1 ISIDS
- Houssem Bjaoui
- Wassim Guessmi
+Houssem Bjaoui &
+Wassim Guessmi
 
 Full-stack application for managing university housing infrastructure, student accommodations, and reservations with AI-powered assistance.
 
